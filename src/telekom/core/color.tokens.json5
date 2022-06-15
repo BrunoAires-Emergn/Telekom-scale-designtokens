@@ -29,11 +29,11 @@
           type: "color",
         },
         tint: {
-          value: "#FFF0F8",
+          value: "#FDEDF5",
           type: "color",
         },
         shade: {
-          value: "#33001A",
+          value: "#220011",
           type: "color",
         },
       },

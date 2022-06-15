@@ -736,7 +736,27 @@
             },
           },
         },
-      }
+      },
+      subtle: {
+        value: {
+          light: "{core.color.brand.tint}",
+          dark: "{core.color.brand.shade}",
+        },
+        type: "color",
+        extensions: {
+          telekom: {
+            sketch: {
+              uuid: "323ab56b-ebd1-4e81-9701-9a3bd11cb15d",
+            },
+            docs: {
+              contrast: [
+                "color.text-&-icon.standard",
+                "color.text-&-icon.primary.standard"
+              ],
+            },
+          },
+        },
+      },
     },
     ui: {
       comment: "Used to create UI elements like dividers, checkboxes, buttons, etc.",
